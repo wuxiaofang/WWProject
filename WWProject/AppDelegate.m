@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import <WWHttpModule/WWHttpClient.h>
 
 @interface AppDelegate ()
 
@@ -17,6 +18,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    WWHttpClient* httpClient = [[WWHttpClient alloc] init];
+    [httpClient printfClassInfo];
     return YES;
 }
 

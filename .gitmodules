@@ -1,0 +1,3 @@
+[submodule "CommonMudules/WWHttpModule"]
+	path = CommonMudules/WWHttpModule
+	url = git@github.com:wuxiaofang/WWHttpModule.git

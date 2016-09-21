@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CommonMudules/WWHttpModule/WWHttpModule.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:WWProject.xcodeproj">
    </FileRef>
    <FileRef
