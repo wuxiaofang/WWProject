@@ -1,2 +1,7 @@
 
 *.xcuserstate
+project.xcworkspace
+xcuserdata
+*.swp
+.DS_Store
+Build
