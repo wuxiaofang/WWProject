@@ -5,3 +5,5 @@ xcuserdata
 *.swp
 .DS_Store
 Build
+
+*.xcuserstate
