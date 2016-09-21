@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-#import <WWHttpModule/WWHttpClient.h>
+#import <WWHttpModule/WWHttpModule.h>
 
 @interface AppDelegate ()
 
